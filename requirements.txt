@@ -1,6 +1,6 @@
 streamlit
 PyMuPDF
-transformers
+transformers<5.0.0
 torch
 faiss-cpu
 sentence-transformers
